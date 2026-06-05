@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#161616"/>
+  <g fill="none" stroke="#811449" stroke-width="3.2" stroke-linecap="round">
+    <path d="M14 16 V12 a2 2 0 0 1 2-2 h8"/>
+    <path d="M50 16 V12 a2 2 0 0 0-2-2 h-8"/>
+    <path d="M14 48 V52 a2 2 0 0 0 2 2 h8"/>
+    <path d="M50 48 V52 a2 2 0 0 1-2 2 h-8"/>
+  </g>
+  <text x="32" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700"
+        fill="#f0f0f2" text-anchor="middle" letter-spacing="1">BI</text>
+</svg>
